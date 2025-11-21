@@ -8,5 +8,11 @@
     background-image: url(./foto/Rectangle\ \(33\).png);
     background-repeat: no-repeat;
     width: 100%;
-    height: 450vh;
+    height: 410vh;
 } 
+.bgc3 {
+    background-image: url(./foto/Rectangle\ \(34\).png);
+     background-repeat: no-repeat;
+    width: 100%;
+    height: 140vh;
+}
