@@ -187,6 +187,9 @@
   .m-auto {
     margin: auto;
   }
+  .mt-0 {
+    margin-top: calc(var(--spacing) * 0);
+  }
   .mt-2 {
     margin-top: calc(var(--spacing) * 2);
   }
@@ -220,6 +223,9 @@
   .mt-30 {
     margin-top: calc(var(--spacing) * 30);
   }
+  .mt-40 {
+    margin-top: calc(var(--spacing) * 40);
+  }
   .mt-50 {
     margin-top: calc(var(--spacing) * 50);
   }
@@ -247,6 +253,9 @@
   .mb-6 {
     margin-bottom: calc(var(--spacing) * 6);
   }
+  .mb-10 {
+    margin-bottom: calc(var(--spacing) * 10);
+  }
   .mb-15 {
     margin-bottom: calc(var(--spacing) * 15);
   }
@@ -267,6 +276,9 @@
   }
   .ml-20 {
     margin-left: calc(var(--spacing) * 20);
+  }
+  .ml-25 {
+    margin-left: calc(var(--spacing) * 25);
   }
   .ml-\[750px\] {
     margin-left: 750px;
@@ -300,6 +312,9 @@
   }
   .h-\[500px\] {
     height: 500px;
+  }
+  .w-\[20px\] {
+    width: 20px;
   }
   .w-\[50px\] {
     width: 50px;
